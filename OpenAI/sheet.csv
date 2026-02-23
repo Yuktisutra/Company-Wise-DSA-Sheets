@@ -1,0 +1,12 @@
+Title,Link,Difficulty,Topic
+"Design SQL","https://leetcode.com/problems/design-sql","MEDIUM","Array, Hash Table, String, Design"
+"Flatten Nested List Iterator","https://leetcode.com/problems/flatten-nested-list-iterator","MEDIUM","Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+"Design Excel Sum Formula","https://leetcode.com/problems/design-excel-sum-formula","HARD","Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"
+"Time Based Key-Value Store","https://leetcode.com/problems/time-based-key-value-store","MEDIUM","Hash Table, String, Binary Search, Design"
+"Web Crawler Multithreaded","https://leetcode.com/problems/web-crawler-multithreaded","MEDIUM","Depth-First Search, Breadth-First Search, Concurrency"
+"Design Memory Allocator","https://leetcode.com/problems/design-memory-allocator","MEDIUM","Array, Hash Table, Design, Simulation"
+"Simplify Path","https://leetcode.com/problems/simplify-path","MEDIUM","String, Stack"
+"Flood Fill","https://leetcode.com/problems/flood-fill","EASY","Array, Depth-First Search, Breadth-First Search, Matrix"
+"Encode and Decode Strings","https://leetcode.com/problems/encode-and-decode-strings","MEDIUM","Array, String, Design"
+"Largest Local Values in a Matrix","https://leetcode.com/problems/largest-local-values-in-a-matrix","EASY","Array, Matrix"
+"Asteroid Collision","https://leetcode.com/problems/asteroid-collision","MEDIUM","Array, Stack, Simulation"

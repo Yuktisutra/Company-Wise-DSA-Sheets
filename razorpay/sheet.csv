@@ -1,0 +1,11 @@
+Title,Link,Difficulty,Topic
+"Minimum Total Cost to Make Arrays Unequal","https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal","HARD","Array, Hash Table, Greedy, Counting"
+"Two Best Non-Overlapping Events","https://leetcode.com/problems/two-best-non-overlapping-events","MEDIUM","Array, Binary Search, Dynamic Programming, Sorting, Heap (Priority Queue)"
+"Most Beautiful Item for Each Query","https://leetcode.com/problems/most-beautiful-item-for-each-query","MEDIUM","Array, Binary Search, Sorting"
+"Shortest Subarray to be Removed to Make Array Sorted","https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted","MEDIUM","Array, Two Pointers, Binary Search, Stack, Monotonic Stack"
+"Merge Intervals","https://leetcode.com/problems/merge-intervals","MEDIUM","Array, Sorting"
+"Excel Sheet Column Number","https://leetcode.com/problems/excel-sheet-column-number","EASY","Math, String"
+"Decode String","https://leetcode.com/problems/decode-string","MEDIUM","String, Stack, Recursion"
+"Container With Most Water","https://leetcode.com/problems/container-with-most-water","MEDIUM","Array, Two Pointers, Greedy"
+"Rotate Array","https://leetcode.com/problems/rotate-array","MEDIUM","Array, Math, Two Pointers"
+"LRU Cache","https://leetcode.com/problems/lru-cache","MEDIUM","Hash Table, Linked List, Design, Doubly-Linked List"

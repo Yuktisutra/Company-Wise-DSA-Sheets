@@ -1,0 +1,8 @@
+Title,Link,Difficulty,Topic
+"Divide an Array Into Subarrays With Minimum Cost II","https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii","HARD","Array, Hash Table, Sliding Window, Heap (Priority Queue)"
+"Find the Grid of Region Average","https://leetcode.com/problems/find-the-grid-of-region-average","MEDIUM","Array, Matrix"
+"Maximize the Number of Target Nodes After Connecting Trees I","https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i","MEDIUM","Tree, Depth-First Search, Breadth-First Search"
+"Maximize the Number of Target Nodes After Connecting Trees II","https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii","HARD","Tree, Depth-First Search, Breadth-First Search"
+"Two Sum","https://leetcode.com/problems/two-sum","EASY","Array, Hash Table"
+"Making A Large Island","https://leetcode.com/problems/making-a-large-island","HARD","Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+"Trapping Rain Water","https://leetcode.com/problems/trapping-rain-water","HARD","Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
